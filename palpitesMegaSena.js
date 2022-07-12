@@ -6,6 +6,7 @@ function getRandomInt(min, max) {
 
 const prompt = require("prompt-sync")();
 
+console.log('PALPITES PARA MEGA SENA')
 let qt = parseInt(prompt('Quantas apostas você deseja?: '));
 let palpite = [];
 x = 1;
